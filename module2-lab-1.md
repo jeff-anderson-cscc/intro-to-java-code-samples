@@ -1,4 +1,4 @@
-# Module 2 Lab
+# Module 2 Lab 1 -- Classes and Interfaces
 
 ## Interfaces
 
@@ -78,5 +78,3 @@
 
 **Questions:**
 * How does the compiler know which one to invoke? _____________
-* What happens if you try to add a method to ``BaseCalculator`` with a signature of ``public int addNumbers (int... ints)``? _____________
-* Why does this happen?
